@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "An easy-to-use, flexible, and powerful Turbo Modal solution for Rails 7+ built with Stimulus.js, Tailwind CSS (or vanilla CSS) and Hotwire."
   spec.homepage = "https://github.com/cmer/ultimate_turbo_modal"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 3.0"
+  spec.required_ruby_version = ">= 2.7"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/cmer/ultimate_turbo_modal"
